@@ -1,0 +1,8 @@
+{
+            "disable_keymap_actions": false, // "all"; "html,css"
+            "date_format" : "%Y-%m-%d %H:%M:%S",
+            "attr": {
+                "author": "Shuo Yang",
+        		"email": "yangshuo129@gmail.com"
+            }
+}
